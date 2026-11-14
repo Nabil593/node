@@ -1,0 +1,139 @@
+[
+    {
+        "id": "1",
+        "name": "Nabil",
+        "age": 20
+    },
+    {
+        "id": "3",
+        "name": "Men's Casual T-Shirt",
+        "category": "Fashion",
+        "price": 850,
+        "discountPrice": 699,
+        "description": "Comfortable cotton casual t-shirt for everyday wear.",
+        "image": "https://placehold.co/600x400",
+        "stock": 50,
+        "rating": 4.2,
+        "reviews": 64,
+        "brand": "UrbanWear",
+        "isFeatured": false,
+        "createdAt": "2026-11-03"
+    },
+    {
+        "id": "4",
+        "name": "Running Shoes",
+        "category": "Footwear",
+        "price": 3200,
+        "discountPrice": 2799,
+        "description": "Lightweight running shoes with comfortable cushioning.",
+        "image": "https://placehold.co/600x400",
+        "stock": 30,
+        "rating": 4.7,
+        "reviews": 210,
+        "brand": "RunX",
+        "isFeatured": true,
+        "createdAt": "2026-11-04"
+    },
+    {
+        "id": "5",
+        "name": "Leather Wallet",
+        "category": "Accessories",
+        "price": 1200,
+        "discountPrice": 999,
+        "description": "Premium minimalist leather wallet with multiple card slots.",
+        "image": "https://placehold.co/600x400",
+        "stock": 40,
+        "rating": 4.1,
+        "reviews": 45,
+        "brand": "Classic",
+        "isFeatured": false,
+        "createdAt": "2026-11-05"
+    },
+    {
+        "id": "6",
+        "name": "Bluetooth Speaker",
+        "category": "Electronics",
+        "price": 1800,
+        "discountPrice": 1499,
+        "description": "Portable Bluetooth speaker with powerful stereo sound.",
+        "image": "https://placehold.co/600x400",
+        "stock": 22,
+        "rating": 4.6,
+        "reviews": 156,
+        "brand": "SoundPro",
+        "isFeatured": true,
+        "createdAt": "2026-11-06"
+    },
+    {
+        "id": "7",
+        "name": "Backpack",
+        "category": "Accessories",
+        "price": 1500,
+        "discountPrice": 1299,
+        "description": "Durable backpack suitable for school, travel, and work.",
+        "image": "https://placehold.co/600x400",
+        "stock": 35,
+        "rating": 4.4,
+        "reviews": 92,
+        "brand": "TravelMate",
+        "isFeatured": false,
+        "createdAt": "2026-11-07"
+    },
+    {
+        "id": "8",
+        "name": "Mechanical Keyboard",
+        "category": "Electronics",
+        "price": 3500,
+        "discountPrice": 2999,
+        "description": "RGB mechanical keyboard with tactile switches.",
+        "image": "https://placehold.co/600x400",
+        "stock": 15,
+        "rating": 4.8,
+        "reviews": 178,
+        "brand": "KeyMaster",
+        "isFeatured": true,
+        "createdAt": "2026-11-08"
+    },
+    {
+        "id": "9",
+        "name": "Sunglasses",
+        "category": "Accessories",
+        "price": 1100,
+        "discountPrice": 899,
+        "description": "Stylish UV-protected sunglasses for everyday use.",
+        "image": "https://placehold.co/600x400",
+        "stock": 28,
+        "rating": 4,
+        "reviews": 38,
+        "brand": "SunStyle",
+        "isFeatured": false,
+        "createdAt": "2026-11-09"
+    },
+    {
+        "id": "10",
+        "name": "Laptop Stand",
+        "category": "Accessories",
+        "price": 2000,
+        "discountPrice": 1699,
+        "description": "Adjustable aluminum laptop stand for better ergonomics.",
+        "image": "https://placehold.co/600x400",
+        "stock": 20,
+        "rating": 4.5,
+        "reviews": 110,
+        "brand": "DeskPro",
+        "isFeatured": true,
+        "createdAt": "2026-11-10"
+    },
+    {
+        "id": 1794634246062,
+        "name": "Nabil"
+    },
+    {
+        "id": 1794634299676,
+        "name": "Nabil"
+    },
+    {
+        "id": 1794634414071,
+        "name": "Nabil"
+    }
+]
